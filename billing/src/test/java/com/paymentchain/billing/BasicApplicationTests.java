@@ -12,7 +12,7 @@ public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		String message = "Mensaje desde el Test del microservice ";
+		String message = "Mensaje desde el Test del microservice.";
 		Assert.assertNotNull(message);
 	}
 
