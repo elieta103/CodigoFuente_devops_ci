@@ -72,6 +72,7 @@ public class BasicApplicationTests {
 
     /**
      * Test call of create method, on weblayer.
+     * Method testCreate
      */
     @Test
     public void testCreate() throws Exception {
@@ -92,6 +93,7 @@ public class BasicApplicationTests {
 
     /**
      * Test call of create method, on weblayer.
+     * Method testFindById
      */
     @Test
     public void testFindById() throws Exception {
